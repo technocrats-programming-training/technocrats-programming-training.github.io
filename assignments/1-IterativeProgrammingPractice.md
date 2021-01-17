@@ -37,4 +37,4 @@ Column Explanations:
 |testAutonomousInitPrints|Checks that `autonomousInit()` prints `Starting Autonomous`|3|`autonomousInit()`|
 |testTeleopInitPrints|Checks that `teleopInit()` prints `Starting Teleop`|4|`teleopInit()`|
 |testAutonomousPeriodicPrintsNumberOfCalls|Checks that `autonomousPeriodic()` prints `"x,y"` if x is the number of times `autonomousInit()` has been called and y is the number of times `autonomousPeriodic()` has been called|5|`autonomousInit()`, `autonomousPeriodic()`|
-|testTeleopPeriodicPrintsNumberOfCalls|Checks that `teleopPeriodic()` prints `"x,y"` if x is the number of times `teleopInit()` has been called and y is the number of times `teleopPeriodic()` has been called|5|`teleopInit()`, `teleopPeriodic()`|
+|testTeleopPeriodicPrintsNumberOfCalls|Checks that `teleopPeriodic()` prints `"x,y"` if x is the number of times `teleopInit()` has been called and y is the number of times `teleopPeriodic()` has been called|6|`teleopInit()`, `teleopPeriodic()`|
