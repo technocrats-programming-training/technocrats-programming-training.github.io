@@ -10,6 +10,7 @@ In this assignment, you will write a very simple iterative robot program that pr
 4. Whenever the robot is enabled in teleop, print `"Starting Teleop"` to the console
 5. Every cycle of the robot loop during autonomous (every time `autonomousPeriodic()` is called), print the number of times the robot has entered autonomos (the number of times `autonomousInit()` has been called, then a comma, then the number of times `autonomousPeriodic()` has been called since the robot was most recently enabled into autonomous. For example, if you have called `autonomousInit()` once so far, the first time you call `autonomousPeriodic()` the robot should print `"1,1"` to the console, the second time it should print `"1,2"`, etc. If you have called `autonomousInit()` twice so far, the first time you call `autonomousPeriodic()` the robot should print `"2,1"` to the console, the second time it should print `"2,2"`, etc. Note that the second number should reset to 1 every time you call `autonomousPeriodic()`.
 6. Do the equivalent of the requirement above, but for Teleop
+
 ## Instructions
 * Accept the GitHub Classroom Assignment here: [https://classroom.github.com/a/ytAxq_3W](https://classroom.github.com/a/ytAxq_3W)
 * Clone the repository that is created and open it in VSCode. The name of the repository should be `technocrats-programming-training/iterativeprogrammingpractice-<YOUR GITHUB USERNAME>`
