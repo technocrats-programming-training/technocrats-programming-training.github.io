@@ -1,1 +1,0 @@
-# technocrats-programming-training.github.io
