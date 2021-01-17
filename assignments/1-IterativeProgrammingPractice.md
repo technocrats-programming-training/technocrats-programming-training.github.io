@@ -25,6 +25,9 @@ In this assignment, you will write a very simple iterative robot program that pr
 * This assignment comes with unit tests to check your work. To run these tests, open a terminal in VSCode and run the command `./gradlew test`. In the output, you should see which tests passed and which tests failed. There is a breakdown of each test in the tests section of this document.
 
 ## Tests
+Column Explanations:
+* Requirement: number from the requirement list above
+* Methods Tested: whether the test passes or fails only depends on how you wrote the methods in this box, and your instance variables.
 | Test Name | Description | Requirement | Methods Tested |
 |---|---|---|---|
 |testRobotInitPrints|Checks that `robotInit()` prints `"Robot Has Initialized"`|1|`robotInit()`|
