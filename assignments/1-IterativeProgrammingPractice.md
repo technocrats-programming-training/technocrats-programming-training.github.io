@@ -28,6 +28,7 @@ In this assignment, you will write a very simple iterative robot program that pr
 Column Explanations:
 * Requirement: number from the requirement list above
 * Methods Tested: whether the test passes or fails only depends on how you wrote the methods in this box, and your instance variables.
+
 | Test Name | Description | Requirement | Methods Tested |
 |---|---|---|---|
 |testRobotInitPrints|Checks that `robotInit()` prints `"Robot Has Initialized"`|1|`robotInit()`|
