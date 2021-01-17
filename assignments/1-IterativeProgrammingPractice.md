@@ -9,3 +9,16 @@ In this assignment, you will write a very simple iterative robot program that pr
 * Whenever the robot is enabled in autonomous, print `"Starting Autonomous"` to the console
 * Every cycle of the robot loop during autonomous (every time `autonomousPeriodic()` is called), print the number of times the robot has entered autonomos (the number of times `autonomousInit()` has been called, then a comma, then the number of times `autonomousPeriodic()` has been called since the robot was most recently enabled into autonomous. For example, if you have called `autonomousInit()` once so far, the first time you call `autonomousPeriodic()` the robot should print `"1,1"` to the console, the second time it should print `"1,2"`, etc. If you have called `autonomousInit()` twice so far, the first time you call `autonomousPeriodic()` the robot should print `"2,1"` to the console, the second time it should print `"2,2"`, etc. Note that the second number should reset to 1 every time you call `autonomousPeriodic()`.
 * Do the equivalent of the requirement above, but for Teleop
+## Instructions
+* Accept the GitHub Classroom Assignment here: [https://classroom.github.com/a/ytAxq_3W](https://classroom.github.com/a/ytAxq_3W)
+* Clone the repository that is created and open it in VSCode. The name of the repository should be `technocrats-programming-training/iterativeprogrammingpractice-<YOUR GITHUB USERNAME>`
+* To complete this assignment, you only have to change the file `src/main/java/frc/robot/Robot.java`. Inside this file, you have to edit the following methods
+  * `robotInit()`
+  * `robotPeriodic()`
+  * `autonomousInit()`
+  * `autonomousPeriodic()`
+  * `teleopInit()`
+  * `teleopPeriodic()`
+* You should NOT change `disabledInit()` ,`disabledPeriodic()`, `testInit()`, `testPeriodic()`, or any file other than `src/main/java/frc/robot/Robot.java`
+* In addition to editing the methods listed above, you will also have to create several instance variables in the class `Robot`. You can initialize them in `robotInit()` (Do not create a constructor).
+* This assignment comes with unit tests to check your work. To run these tests, open a terminal in VSCode and run the command `./gradlew test`. In the output, you should see which tests passed and which tests failed. There is a breakdown of each test in the tests section of this document.
