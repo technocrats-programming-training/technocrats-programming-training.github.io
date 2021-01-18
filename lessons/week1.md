@@ -9,4 +9,3 @@ Watch the following training videos
 ## Assignment
 Complete the following assignment:
 * [Assignment 1: Iterative Programming Practice](assignments/1-IterativeProgrammingPractice)
-To help you set up the first assignment, I've created a quick demo video:
