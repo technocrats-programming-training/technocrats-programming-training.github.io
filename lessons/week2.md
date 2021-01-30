@@ -5,7 +5,7 @@ title: Week 2 Lesson
 ## Videos
 Watch the following training videos
 * [CTRE Motor Controller Basics](https://youtu.be/7r_gnh0zrdE)
-* [Controller Input Basics](https://youtu.be/p5KdQT9kyHA
+* [Controller Input Basics](https://youtu.be/p5KdQT9kyHA)
 
 ## Assignment
 Complete the following assignment:
