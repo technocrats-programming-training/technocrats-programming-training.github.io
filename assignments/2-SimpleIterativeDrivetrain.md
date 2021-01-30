@@ -6,8 +6,10 @@ In this assignment, write a robot program capable of using joystick input to dri
 ## Requirements
 1. Read 2 axis from the joysticks to determine speed for each side of the drivetrain.
 2. Periodically set the motor controllers to the speeds determined from the joysticks.
+    * Motor Controller CAN IDs: Drivetrain left side: 1, 2, Drivetrain right side: 3, 4
+3. When Button 0 on Joystick 0 is pressed, set the maximum speed of the drivetrain to 0.5 (from this point divide all speeds by 2 before passing them onto the Joysticks.
 ## Instructions
-* Accept the GitHub Classroom Assignment here: [https://classroom.github.com/a/ytAxq_3W](https://classroom.github.com/a/ytAxq_3W)
+* Accept the GitHub Classroom Assignment here: [https://classroom.github.com/a/yc2yfxCz](https://classroom.github.com/a/yc2yfxCz)
 * Clone the repository that is created and open it in VSCode. The name of the repository should be `technocrats-programming-training/iterativeprogrammingpractice-<YOUR GITHUB USERNAME>`
 * To complete this assignment, you only have to change the file `src/main/java/frc/robot/Robot.java`. Inside this file, you have to edit the following methods
   * `robotInit()`
