@@ -6,4 +6,7 @@
 ## Assignments
 * [Assignment 1: Iterative Programming Practice](assignments/1-IterativeProgrammingPractice.md)
 * [Assignment 2: Simple Iterative Drivetrain](assignments/2-SimpleIterativeDrivetrain.md)
+```
+This is a code block
+```
 
