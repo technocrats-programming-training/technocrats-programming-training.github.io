@@ -6,3 +6,6 @@
 ## Assignments
 * [Assignment 1: Iterative Programming Practice](assignments/1-IterativeProgrammingPractice.md)
 * [Assignment 2: Simple Iterative Drivetrain](assignments/2-SimpleIterativeDrivetrain.md)
+* [Assignment 3: Simple Single Motor Subsystem](assignments/3-SimpleSingleMotorSubsystem.md)
+
+
