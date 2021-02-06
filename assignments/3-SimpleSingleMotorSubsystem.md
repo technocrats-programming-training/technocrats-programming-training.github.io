@@ -8,8 +8,9 @@ In this assignment, write a robot program capable of using button input to contr
 2. When the B button on XBoxController 0 is held, set the motor to 0.25 percent output backwards
 3. When the X button on XBoxController 0 is held, set the motor to 0.5 percent output forwards
 4. When the Y button on XBoxController 0 is held, set the motor to 0.5 percent output backwards
+
 ## Instructions
-* Accept the GitHub Classroom Assignment here: [https://classroom.github.com/a/ua43KTuI)
+* Accept the GitHub Classroom Assignment here: [https://classroom.github.com/a/ua43KTuI](https://classroom.github.com/a/ua43KTuI)
 * Clone the repository that is created and open it in VSCode. The name of the repository should be `technocrats-programming-training/iterativeprogrammingpractice-<YOUR GITHUB USERNAME>`
 * To complete this assignment, you only have to change the file `src/main/java/frc/robot/Robot.java`. Inside this file, you have to edit the following methods
   * `robotInit()`
