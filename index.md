@@ -12,6 +12,7 @@ Note that this section could also be done individually if you would like to work
 * [Week 2: Object Oriented Java]()
 * [Week 3: Conditionals and Control Flow, Arrays and Array Lists, Loops]()
 * [Week 4: Advanced Object Oriented Programming]()
+
 ## Part 2: FRC Programming Basics
 Dates: Week of July 18-Week of August 23
 
