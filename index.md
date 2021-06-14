@@ -2,8 +2,12 @@
 This summer, FRC Team 2239 The Technocrats from Hopkins High School will be hosting virtual programming training. Mentors and students on other FRC teams, as well as prospective members at Hopkins High Schoool are welcome to join. 
 
 Training will be split into two parts. The first part can be skipped by those with Java programming knowledge.
+
+After reading the information below, please  fill out [this form](https://forms.gle/tTAQsDyuWtDNYtP19) if you are interested.
+
+If you have any questions,  feel  free to  reach out to us  at [head.coach@technocrats2239.org](mailto:head.coach@technocrats2239.org) or [schehenr0091@apps.hopkinsschools.org](mailto:schehenr0091@apps.hopkinsschools.org)
 ### Time Commitment
-Meeting times will be decided based on the availability of everyone intereste, and each week will include 2 hours of synchronous meetings and another 2-3 hours of asynchronous work.
+Meeting times will be decided based on the availability of everyone interested, and each week will include 2 hours of synchronous meetings and another 2-4 hours of asynchronous work.
 ## Part 1: Java Programming Basics
 Dates: Week of June 20 to Week of July 11
 
