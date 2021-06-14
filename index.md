@@ -16,7 +16,7 @@ This section is an introduction to the Java programming language. We will primar
 Note that this section could also be done individually if you would like to work at your own rate or you can't make it to some/all of the meetings. The meetings will mostly be discussions of the Codecademy content, and offer accountability and an opportunity to ask questions. We hope that by providing additional structure, participants will have more motivation to actually complete the Codecademy course.
 
 ## Part 2: FRC Programming Basics
-Dates: Week of July 18-Week of August 23
+Dates: Week of July 18 to Week of August 23
 
 This section will be an introduction to FRC programming in Java. By the end of the section, participants will be able to program FRC robots with differential drivetrains, motors, and solenoids to execute teleoperated open loop tasks, and efficiently debug their programs. Possible additional topics include PID loops, logging, and unit testing for robot programs.
 
