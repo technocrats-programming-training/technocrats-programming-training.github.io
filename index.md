@@ -9,14 +9,14 @@ If you have any questions,  feel  free to  reach out to us  at [head.coach@techn
 ### Time Commitment
 Meeting times will be decided based on the availability of everyone interested, and each week will include 2 hours of synchronous meetings and another 2-4 hours of asynchronous work.
 ## Part 1: Java Programming Basics
-Dates: Week of June 20 to Week of July 11
+Dates: Week of June 27 to Week of July 18
 
 This section is an introduction to the Java programming language. We will primarily be following the Codecademy Java tutorial, with some supplemental projects, an introduction to using IDEs, and an introduction to Git/GitHub.
 
 Note that this section could also be done individually if you would like to work at your own rate or you can't make it to some/all of the meetings. The meetings will mostly be discussions of the Codecademy content, and offer accountability and an opportunity to ask questions. We hope that by providing additional structure, participants will have more motivation to actually complete the Codecademy course.
 
 ## Part 2: FRC Programming Basics
-Dates: Week of July 18 to Week of August 23
+Dates: Week of July 25 to Week of August 22
 
 This section will be an introduction to FRC programming in Java. By the end of the section, participants will be able to program FRC robots with differential drivetrains, motors, and solenoids to execute teleoperated open loop tasks, and efficiently debug their programs. Possible additional topics include PID loops, logging, and unit testing for robot programs.
 
