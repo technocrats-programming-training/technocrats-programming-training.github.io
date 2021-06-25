@@ -8,7 +8,7 @@ After reading the information below, please  fill out [this form](https://forms.
 If you have any questions,  feel  free to  reach out to us  at [head.coach@technocrats2239.org](mailto:head.coach@technocrats2239.org) or [schehenr0091@apps.hopkinsschools.org](mailto:schehenr0091@apps.hopkinsschools.org)
 ### Time Commitment
 Meeting times will be decided based on the availability of everyone interested, and each week will include 2 hours of synchronous meetings and another 2-4 hours of asynchronous work.
-## Part 1: Java Programming Basics
+## [Part 1: Java Programming Basics](part1schedule.md)
 Dates: Week of June 27 to Week of July 18
 
 This section is an introduction to the Java programming language. We will primarily be following the Codecademy Java tutorial, with some supplemental projects, an introduction to using IDEs, and an introduction to Git/GitHub.
