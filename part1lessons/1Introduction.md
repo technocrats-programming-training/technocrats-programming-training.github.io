@@ -8,6 +8,9 @@ Meeting Time: Tuesday 1-2 PM.
 * Github Registration
     * [Create a GitHub account](https://github.com/signup) if you do not have one already
     * Fill out [this form](https://forms.gle/RiuH2QapUSE5yNRV7) with your GitHub username
+* Watch the [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) video
+* Follow the [Github Hello World tutorial](https://guides.github.com/activities/hello-world/) (estimated time: 10 minutes)
+
 ## Meeting Agenda
 * FRC Overview
 * Training Overview
