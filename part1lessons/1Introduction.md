@@ -21,6 +21,7 @@ Meeting Time: Tuesday 1-2 PM.
     * Cover common mistakes on progress check
     * Answer any other  questions
 * Start Assignment
+
 ## Assignment
 
 ### Objective
