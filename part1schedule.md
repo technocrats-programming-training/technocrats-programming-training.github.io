@@ -10,7 +10,7 @@ Some meetings only have one time option due to scheduling constraints. This is i
 | Date | Meeting # | Topic |
 | ---- | --- |--- |
 |6/29 7pm | 1 | [Introduction](part1lessons/1Introduction.md) |
-|7/2 1pm, 7pm | 2 | Variables | 
+|7/2 1pm, 7pm | 2 | [Variables](part1lessons/2Variables.md) | 
 |7/5 6pm, 7/6 1pm | 3 | Object-Oriented Java | 
 |7/9 1pm, 7pm | 4 | Conditionals and Control Flow | 
 |7/12 6pm, 7/13 1pm | 5 | Arrays | 

@@ -12,6 +12,8 @@ Meeting Time: Tuesday 1-2 PM.
 * Follow the [Github Hello World tutorial](https://guides.github.com/activities/hello-world/) (estimated time: 10 minutes)
 
 ## Meeting Agenda
+[Meeting Recording](https://us02web.zoom.us/rec/share/hagFvTRnnKieFIWBa8KFOxvDNdZ597ao9zGf8njFAgHpSMm6kPvnBo7hgrBuvFM3.LvmMCtDq-EU_zYo3)
+
 * FRC Overview
 * Training Overview
     * Expectations
@@ -38,6 +40,6 @@ Create a Hello World program and push your changes to a GitHub repository
 ### Tests
 | Name | Description |
 | --- | --- |
-| Compilation Test | Checks that your program compiles by running `javac Helloworld.java` and checks for errors.
-| Hello World Print Accuracy | Runs your program by executing `java HelloWorld.java`, then checks that the output matches `Hello, World!` exactly.
+| Compilation Test | Checks that your program compiles by running `javac Helloworld.java` and checks for errors. |
+| Hello World Print Accuracy | Runs your program by executing `java HelloWorld.java`, then checks that the output matches `Hello, World!` exactly. |
 
