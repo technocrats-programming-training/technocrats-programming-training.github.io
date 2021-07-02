@@ -12,5 +12,8 @@ Meeting Times: Friday July 2 1-2pm, 7-8pm
 * Divide into groups to work on assignment
 
 ## Assignment
-
-TBD, will be released by meeting time
+* Add yourself to the assignment [here](https://classroom.github.com/a/ktspcOTT)
+* Do not change the java code already inside the  `main()` method, or worry about how it works.
+    * This program is written to pull arguments from the command line into variables. This will allow you to test your code. For example, running `java Main.java Henry Scheible 17` will set the variables `firstName` to `"Henry"`, `lastName` to `"Scheible"`, and `age` to `17`.
+* Add code to accomplish each of the tasks that are explained in  comments inside the file. Note that you do not need to solve each of these tasks with one statement, use as many as you want. (They all can be solved with one statement though, so try that if you are interested in finding the optimal solution).
+* Navigate to the version control tab, name your commit, and  click the Commit and Push button to send your changes to GitHub.
