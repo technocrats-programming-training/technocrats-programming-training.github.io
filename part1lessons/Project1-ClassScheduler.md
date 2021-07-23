@@ -22,5 +22,19 @@ When the user runs the application, the following should happen:
         ID: 1, Block: 2, Name: AP Physics, Teacher: Ditty
         ID: 2, Block: 3, Name: AP Chemistry, Teacher: Kappel
         ID: 3, Block: 4, Name: HPAL, Teacher: Brueske
-        ID: 4, Block: 2, Name: AP Calculus, Teacher: Hering
         ```
+
+## Instructions
+* You will start with an empty gradle project containing four empty classes: `App`, `Schedule`, `Database`, and `Class`
+* Start by making a copy of [this] planning document and working out what functions and instance variables you will put in the `App`, `Schedule`, `Database`, and `Class` classes.
+* To run your code, execute `./gradlew run --console=plain -x test` in the shell
+* To test your code, execute `./gradlew test` in the shell. For details on what each test does, see the table below
+
+## Tests
+| Name | Description |
+| ---- | ----------- |
+| `testPrintsDatabase` | Starts the program, enters classes into the database, and views available classes to ensure that they match |and views the schedule to ensure that it was added
+| `testAddsOneBlock` | Starts the program, enters classes into the database, adds a class to block 1, and views the schedule to ensure that it was added | 
+| `testAddsTwoBlocks` | Starts the program, enters classes into the database, adds a class to block 1, adds a class to block 2, and views the schedule to ensure that it was added | 
+| `testAddsConflictingBlocks` | Starts the program, enters classes into the database, adds a class to block 2, attempts to add another class to block 2, checks that the `Block 2 is already full` message is printed, and views the schedule to ensure that only the first class added appears |
+| `testDrop` | Starts the program, enters classes into the database, adds a class to block 1, adds a class to block 2, drops the class in block 2, and views the schedule to ensure that it was dropped | 
