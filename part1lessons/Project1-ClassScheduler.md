@@ -26,7 +26,8 @@ When the user runs the application, the following should happen:
 
 ## Instructions
 * You will start with an empty gradle project containing four empty classes: `App`, `Schedule`, `Database`, and `Class`
-* Start by making a copy of [this] planning document and working out what functions and instance variables you will put in the `App`, `Schedule`, `Database`, and `Class` classes.
+* Start by making a copy of [this](https://docs.google.com/spreadsheets/d/1o6iK2-TGUAl9hpWBud50Jc_IgKeVRerXLaIaeeOC_Oc/edit?usp=sharing) planning document and working out what functions and instance variables you will put in the `App`, `Schedule`, `Database`, and `Class` classes.
+* Accept the GitHub classroom assignment [here](https://classroom.github.com/a/SzY1FWUI)
 * To run your code, execute `./gradlew run --console=plain -x test` in the shell
 * To test your code, execute `./gradlew test` in the shell. For details on what each test does, see the table below
 
