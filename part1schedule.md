@@ -16,6 +16,6 @@ Some meetings only have one time option due to scheduling constraints. This is i
 |7/12 6pm, 7/13 1pm | 4 | [Conditionals and Control Flow](part1lessons/4ConditionalsAndControlFlow.md) | 
 |7/16 1pm, 7pm | 5 | [Arrays and Loops](part1lessons/5ArraysLoops.md) | 
 |7/23 1pm, 7pm | 6 | [Project 1](part1lessons/Project1-ClassScheduler.md) | 
-| | 7 | Access, Encapsulation, and Static Methods |
+|8/13 1pm, 7pm | 7 | [Access, Encapsulation, and Static Methods](part1lessons/7AccessEncapsulationStaticMethods.md)|
 |7/26 6pm, 7/27 1pm | 8 | Inheritance and Polymorphism |
 | 7/30 1pm, 7pm | 9 | Project 2 |
