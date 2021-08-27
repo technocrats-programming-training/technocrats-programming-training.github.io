@@ -9,5 +9,4 @@ Read the following pages from the WPILib Documentation. The WPILib Documentation
 * [Commands](https://docs.wpilib.org/en/stable/docs/software/commandbased/commands.html)
 
 ## Assignment
-Complete the following assignment at the meeting:
-TBD
+Complete the following assignment at the meeting: [Assignment 3: Command Based Drivetrain](../assignments/3-SimpleCommandDrivetrain.md)
