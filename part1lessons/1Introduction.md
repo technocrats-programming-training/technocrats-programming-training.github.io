@@ -1,5 +1,4 @@
 # 1.1 Introduction
-Meeting Time: Tuesday 1-2 PM. 
 ## Complete Before Meeting
 * Register for Codecademy (there is no need to get Codecademy pro, just get the  free version) (estimated time: 5 minutes)
 * Complete the [Hello World](https://www.codecademy.com/courses/learn-java/lessons/hello-world-java) Lesson in Codecademy (estimated time: 45-60 min)
@@ -30,9 +29,9 @@ Meeting Time: Tuesday 1-2 PM.
 Create a Hello World program and push your changes to a GitHub repository
 
 ### Instructions
-* Join the GitHub Classroom assignment by clicking [this link](https://classroom.github.com/a/yZ92yK8p)
+* Join the GitHub Classroom assignment by clicking the "Hello World" link in the schedule table.
 * Refresh the page and follow the link to your repository, which should be named `hello-world-<YOUR GITHUB USERNAME>`. For example, `hello-world-henryscheible`
-* Click the **Work in Repl.it** button
+* Clone your repository into a new Repl.it
 * Create a program that prints `"Hello, World!"` to the screen. Make sure that your class is `HelloWorld` and the file name is `HelloWorld.java`
 * Commit your changes by running `git add .` then `git commit -am "finished assignment"` in the shell
 * Upload your changes to GitHub  by running `git push` in the shell
