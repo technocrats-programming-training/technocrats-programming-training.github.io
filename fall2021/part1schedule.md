@@ -8,6 +8,6 @@ Most meetings have work that must be completed before attending. Click a link be
 |10/3 11am-1pm | 3 | [Object Oriented Programming](../part1lessons/3ObjectOrientedProgramming.md) | [OOP](https://classroom.github.com/a/GDrRGlIO)|
 |10/7 8-9pm| 4 | [Conditionals and Control Flow](../part1lessons/4ConditionalsAndControlFlow.md) | |
 || 5 | [Arrays and Loops](part1lessons/5ArraysLoops.md) | |
-|| 6 | [Project 1](part1lessons/Project1-ClassScheduler.md) | |
+|| 6 | [Project 1](../spart1lessons/Project1-ClassScheduler.md) | |
 || 7 | [Access, Encapsulation, and Static Methods](part1lessons/7AccessEncapsulationStaticMethods.md)| |
 | | 8 | [Inheritance and Polymorphism](part1lessons/8InheritancePolymorphism.md)| |
