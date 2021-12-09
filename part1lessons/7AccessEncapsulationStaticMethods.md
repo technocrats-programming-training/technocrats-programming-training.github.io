@@ -1,4 +1,4 @@
-# 1.7 Access, Encapsulation, an d Static Methods
+# 1.7 Access, Encapsulation, and Static Methods
 Meeting Times: Friday August 10, 1-2pm and 7-8pm
 
 ## Complete Before Meeting
